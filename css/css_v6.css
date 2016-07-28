@@ -1,0 +1,44 @@
+body {background:url("fond-page.jpg") no-repeat center top fixed;background-color:#737373;font-family: Verdana, Helvetica, sans-serif;font-size:10px;color:#555555;margin:0px;margin-bottom:100px;}
+
+img {border:0px;}
+
+h1 {font-family:Verdana;font-size:17px;font-weight:normal;margin-bottom:5px;margin-top:2px;color:#4D4D4D;background-color:#E4E4E4;}
+
+h2 {font-family:Verdana;font-size:11px;font-weight:normal;margin-bottom:5px;margin-top:30px;color:#333333;background-color:#E4E4E4;}
+
+p {margin-top : 5px;margin-bottom : 2px;}
+
+#main_nav {padding-right : 18px;padding-left : 18px;padding-top : 0px;padding-bottom : 30px;width : 180px;border : 0px solid #FF00FF;position : relative;float : left;}
+#main_nav ul {	padding-right : 0px;padding-left : 0px;padding-top : 0px;padding-bottom : 0px;margin : 0px;margin-top:10px;width : 100%;border-top : 1px solid #B1B1B1;}
+#main_nav ul li { padding-right : 0px;padding-bottom : 5px;padding-top : 5px;margin : 0px;list-style-type : none;border-bottom : 1px solid #B1B1B1;}
+#main_nav ul li a { padding-left:13px;font-weight:bold;}
+#main_nav ul li ul {margin:0px;margin-top:5px;}
+#main_nav ul li ul li{margin:0px;border-top :none;border-bottom : none;}
+#main_nav ul li ul li a { padding-left:20px;}
+
+a.linkmenublue:hover {color:#1459A6 !IMPORTANT;}
+
+.avecsouscat {background:url("avecsouscat.jpg") no-repeat top right;font-weight:bold;}
+.contact {background:url("contact.jpg") no-repeat top right;}
+
+#main_nav a {color : #555555;text-decoration:none;font-weight:normal;}
+#main_nav a:hover {color : #709500;font-weight:bold;}
+
+#ombre_top {width: 750px;margin: 0px;padding: 0px;margin-right: auto;margin-left: auto;text-align: center;margin-top: 30px;border : 0px solid #FFFFFF;height:13px;background:url("ombretop.gif");}
+
+#container {overflow:hidden;zoom:1;width: 750px;margin: 0px;padding: 0px;margin-right: auto;margin-left: auto;text-align: center;border : 7px solid #FFFFFF;background-color: #E4E4E4;height:100%;text-align:left;}
+
+#nav1 {width:730px;margin-top:10px;margin-left:10px;margin-right:10px;margin-bottom:10px;padding:0px;padding-right : 0px;text-align:right;font-size:9px;height:12px;line-height:10px;}
+#nav1 a {color : #709500;text-decoration:none;padding-left : 2px;padding-right:2px;}
+#nav1 a:hover{	text-decoration:none;border-bottom : 1px solid #709500;}
+
+#nav1 h1 {font-size:9px;font-family:verdana;letter-spacing:normal;margin:0px;padding:0px;line-height:10px;}
+
+#entete{width:750px;margin:0px;padding:0px;height : 156px;border : 0px solid #FF00FF;margin-bottom:20px;text-align:right;}
+
+#contenu {width : 510px;border : 0px solid #FF00FF;margin-left : 230px;position : relative;line-height : 17px;padding-bottom:50px;}
+#contenu a {color : #709500;text-decoration:none;}
+#contenu a:hover {text-decoration:underline;}
+
+.paragraphe {	text-indent:40px;text-align:justify;margin-bottom:10px;font-size:9pt;font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Verdana, Arial, sans-serif;line-height:1.75em;	}
+.separation {	margin-top:20px;margin-bottom:30px;text-align:right;}
